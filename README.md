@@ -1,6 +1,6 @@
 # ✨ Welcome to my Github Profile! ✨
 
-Thanks for checking out my work! Feel free to reach out via 💬[LinkedIn](www.linkedin.com/in/simran-gaheer) or 📧 [Email](skgaheer@gmail.com)! 
+Thanks for checking out my work! Feel free to reach out via 💬 [LinkedIn](www.linkedin.com/in/simran-gaheer) or 📧 [Email](skgaheer@gmail.com)! 
 
 ## About Me
 - 🌟 Current Roles: [Bluebonnet Data Science Fellow](https://www.bluebonnetdata.org/) and [Research Analyst at Political Violence Lab](https://www.politicalviolencelab.com/). 
