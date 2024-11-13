@@ -7,7 +7,7 @@ Thanks for checking out my work! Feel free to reach out via 💬 [LinkedIn](www.
 - 🌱 Interests: Data Science, Machine Learning, Quantitative Analysis, Social Impact & Community Empowerment!
 
 ## Projects:
-- [Iowa Legislature Interactive Map](https://redistricting.streamlit.app/)
+- [Iowa Legislature Interactive Map](https://redistricting.streamlit.app/) + [Github](https://github.com/skgaheer/IowaTownAnalysis)
 - [Unemployment and Remote Work Paper](https://github.com/skgaheer/Remote-Work)
 
 
